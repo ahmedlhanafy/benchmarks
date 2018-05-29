@@ -1,0 +1,11 @@
+{
+  "name": "benchmarks-nodejs-echo",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "express": "4.16.3",
+    "morgan": "1.9.0"
+  }
+}
